@@ -1,0 +1,3 @@
+[submodule "third-party/c-algorithm"]
+	path = third-party/c-algorithm
+	url = https://github.com/fragglet/c-algorithms.git
